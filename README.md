@@ -1,7 +1,7 @@
 bitcoin-simple-tx
 ==========
 
-Envoi d'une transaction minimale sur les réseaux BCH et BTC. Programe utilisé pour l'élaboration de l'article [Comment envoyer une transaction Bitcoin à la main ?](https://viresinnumeris.fr/comment-envoyer-une-transaction-bitcoin-a-la-main/).
+Envoi d'une transaction minimale sur les réseaux BCH et BTC. Programe utilisé pour l'élaboration de l'article [Comment envoyer une transaction Bitcoin à la main ?](https://viresinnumeris.fr/comment-envoyer-une-transaction-bitcoin-a-la-main/)
 
 # Prérequis
 
@@ -13,7 +13,7 @@ Paquets utilisés : ecdsa, hashlib, socket. Pour installer un paquet Python 3 :
 
 # Description
 
-`bitcoin-simple-tx.py` : script principal.
+`bitcoin-simple-tx.py` : script principal
 
 `bitcoin.py` : fonctions de hachage, encodage en base58, clés privées, clés publiques, adresses
 
